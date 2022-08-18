@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](___________)
+[1. Описание проекта](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#описание-проекта)
 
-[2. Какой кейс решаем]()
+[2. Какой кейс решаем](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#какой-кейс-решаем)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]()
+[4. Этапы работы над проектом](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#этапы-работы-над-проектом)
 
-[5. Результат]()
+[5. Результат](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#результат)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Dzhambul/Data_science_SF/tree/main/project_0#выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
